@@ -3,11 +3,11 @@
 ## 1. To run the send_email.py
 #### First, you have to open any web browser(Internet Explorer, Google Chrome, Mozilla Firefox ...) and type "less secure apps gmail" without double-quote.
 
-![](images/image1.png)
+![](images/image2.png)
 
 #### Turn it ON
 
-![](images/image2.png)
+![](images/image1.png)
 
 Now, To run the code
 ```console
