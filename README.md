@@ -9,7 +9,7 @@
 
 ![](images/image1.png)
 
-Now, To run the code
+Now, Run the code
 ```console
 python send_email.py
 ```
@@ -31,7 +31,7 @@ Email sent!
 <br><br>
 ## 2. To run the dictionary_search.py
 
-To run the code
+Run the code
 ```console
 python dictionary_search.py
 ```
@@ -58,7 +58,7 @@ House. Adjective. (Of An Animal Or Plant) Kept In, Frequenting, Or Infesting Bui
 <br><br>
 ## 3. To run the dictionary_search.py
 
-To run the code
+Run the code
 ```console
 python dictionary_search.py
 ```
