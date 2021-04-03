@@ -56,11 +56,11 @@ House. Adjective. (Of An Animal Or Plant) Kept In, Frequenting, Or Infesting Bui
 ![](images/image4.png)
 
 <br><br>
-## 3. To run the dictionary_search.py
+## 3. To run the city_distance.py
 
 Run the code
 ```console
-python dictionary_search.py
+python city_distance.py
 ```
 
 ```console
