@@ -23,8 +23,9 @@ Recipient? <user inputs the email address of the recipient>
 # Result
 Email sent!
 ```
+
+### Screenshot:
 <br><br>
-Screenshot:
 ![](images/image3.png)
 
 <br><br>
@@ -49,8 +50,9 @@ House. Noun. A Building For Human Habitation, Especially One That Is Lived In By
 Meaning 3 :
 House. Adjective. (Of An Animal Or Plant) Kept In, Frequenting, Or Infesting Buildings.
 ```
+
+### Screenshot:
 <br><br>
-Screenshot:
 ![](images/image4.png)
 
 <br><br>
@@ -69,6 +71,7 @@ City 2: 48.8566 N, 2.3522 E
 # Result
 City 1 and City 2 are 343.66 km apart
 ```
+
+### Screenshot:
 <br><br>
-Screenshot:
 ![](images/image5.png)
