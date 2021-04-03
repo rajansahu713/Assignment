@@ -24,6 +24,7 @@ Recipient? <user inputs the email address of the recipient>
 Email sent!
 ```
 <br><br>
+Screenshot:
 ![](images/image3.png)
 
 <br><br>
@@ -49,6 +50,7 @@ Meaning 3 :
 House. Adjective. (Of An Animal Or Plant) Kept In, Frequenting, Or Infesting Buildings.
 ```
 <br><br>
+Screenshot:
 ![](images/image4.png)
 
 <br><br>
@@ -68,4 +70,5 @@ City 2: 48.8566 N, 2.3522 E
 City 1 and City 2 are 343.66 km apart
 ```
 <br><br>
+Screenshot:
 ![](images/image5.png)
